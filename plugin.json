@@ -1,0 +1,9 @@
+{
+  "name": "runeql",
+  "version": "1.0.2",
+  "contactEmailAddress": "plugins@rs3.dev",
+  "requiredDependencies": {},
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": []
+}

@@ -1,0 +1,13 @@
+/tools/
+# Development sources and tooling live outside this runtime-only repository.
+/scripts/
+/resources/catalog/*.json
+/resources/catalog/*.md
+/DEVELOPMENT_HISTORY.md
+/dist/
+/*.zip
+*.luac
+__pycache__/
+luac.out
+.DS_Store
+Thumbs.db
